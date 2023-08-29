@@ -4,6 +4,8 @@
 .env
 .next
 .pnpm-debug.log*
+.idea
+.vscode
 cache
 coverage
 dist
